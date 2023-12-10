@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dsecrieru_java.iml" filepath="$PROJECT_DIR$/.idea/dsecrieru_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/masive invers/masive invers.iml" filepath="$PROJECT_DIR$/masive invers/masive invers.iml" />
     </modules>
   </component>
 </project>
